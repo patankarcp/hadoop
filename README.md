@@ -1,12 +1,9 @@
-# Hadoop
-Hadoop learning
+# Hadoop learning resources
 
 Table of contents
 =================
 
 <!--ts-->
-   * [Hadoop](#hadoop)
-   * [Table of contents](#table-of-contents)
    * [MOOC](#mooc)
       * [Edx](#edx)
       * [Coursera](#coursera)
