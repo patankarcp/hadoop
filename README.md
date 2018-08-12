@@ -18,8 +18,11 @@ Table of contents
 <!--te-->
 
 MOOC
-============
-[Introduction to Apache Hadoop](https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
+====
+Edx
+---
+   *[Introduction to Apache Hadoop](https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x)
+
 Books
 ============
 
