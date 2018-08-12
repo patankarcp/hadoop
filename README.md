@@ -30,6 +30,14 @@ Coursera
    * [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
    * [Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames](https://www.coursera.org/learn/big-data-analysis)
 
+Udacity
+--------
+   * [Intro to Hadoop and MapReduce by Cloudera](https://in.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+   
+Others
+------
+   * [MapR Course](https://mapr.com/training/courses/#On-Demand)
+
 Books
 ============
 
