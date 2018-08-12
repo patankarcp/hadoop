@@ -26,6 +26,9 @@ Edx
 Coursera
 --------
    * [Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop)
+   * [Big Data Essentials: HDFS, MapReduce and Spark RDD](https://www.coursera.org/learn/big-data-essentials)
+   * [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
+   * [https://www.coursera.org/learn/big-data-analysis](https://www.coursera.org/learn/big-data-analysis)
 
 Books
 ============
