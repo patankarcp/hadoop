@@ -41,3 +41,5 @@ Projects
 
 Research Papers
 ============
+* [The Google File System](https://ai.google/research/pubs/pub51)
+* [MapReduce: Simplified Data Processing on Large Clusters](https://ai.google/research/pubs/pub62)
