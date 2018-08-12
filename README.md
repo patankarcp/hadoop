@@ -22,7 +22,11 @@ MOOC
 Edx
 ---
    * [Introduction to Apache Hadoop](https://www.edx.org/course/introduction-apache-hadoop-linuxfoundationx-lfs103x) 
+
+Coursera
+--------
    * [Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop)
+
 Books
 ============
 
