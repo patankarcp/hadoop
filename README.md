@@ -34,7 +34,7 @@ Udacity
 Others
 ------
    * [MapR Course](https://mapr.com/training/courses/#On-Demand)
-
+   * [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
 Books
 ============
 
